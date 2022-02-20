@@ -1,0 +1,19 @@
+ADD and REMOVE liquidity Fee
+
+3 % from token1 and token2
+    
+    0.25 % locked to dead address as LP token
+    1.5 % lp provider as LP token
+    0.1 (0.5) % to five bank as token1 and token2
+    0.05 % roulette as token1 and token2
+    0.7 % global address as token1 and token2
+
+swap Fee 
+
+    0.25% from in token
+
+    0.05% locked to dead address as input token
+    0.09 % farm 
+    0.005% usdt bank
+    0.01 % roulette
+    0.095 global address
